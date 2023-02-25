@@ -121,7 +121,7 @@ contract MultiSigWallet {
             emit ExecuteTransaction(msg.sender, _txIndex);
     }
 
-     function revokeTransaction(
+    function revokeTransaction(
         uint _txIndex
         ) external onlyOwner txExists(_txIndex) notExecuted( _txIndex)  {
             Transaction storage transaction = transactions[_txIndex];
