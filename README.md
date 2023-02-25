@@ -1,9 +1,7 @@
 [readme-fr](README-fr.md)
 # Introduction to multi-signature contracts
 
-
 ![](multisig.png)
-
 
 ## __What is a multi-sig smart contract?__
 

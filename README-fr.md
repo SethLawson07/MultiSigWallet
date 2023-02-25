@@ -2,9 +2,7 @@
 
 # Introduction aux contrats multisignatures
 
-
 ![](multisig.png)
-
 
 ## __Qu'est-ce qu'un contrat intelligent multisig__
 
