@@ -18,7 +18,9 @@
   "homepage": "https://github.com/SethLawson07/MultiSigWallet#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "hardhat": "^2.12.7"
+    "ganache-cli": "^6.12.2",
+    "hardhat": "^2.12.7",
+    "solidity-coverage": "^0.8.2"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
